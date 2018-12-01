@@ -1,0 +1,15 @@
+* {
+  box-sizing: border-box;
+}
+footer {
+  background: yellow;
+  height:8rem;
+  text-align:center;
+  display:table;
+  width:100vw;
+  background: url('https://orange.codeberryschool.com/content/images/project-assets/simple-footer.png') repeat center;
+}
+.wrapper{
+  display: table-cell;
+  vertical-align: middle;
+}
